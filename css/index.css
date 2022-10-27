@@ -1,11 +1,11 @@
 @font-face {
     font-family: bitstream_vera_sans_mono;
-    src: url('fonts/bitstream_vera_sans_mono.ttf') 
+    src: url('../fonts/bitstream_vera_sans_mono.ttf') 
 }
 
 @font-face {
     font-family: lucida_console;
-    src: url('fonts/lucida_console.ttf')
+    src: url('../fonts/lucida_console.ttf')
 }
 
 .top_nav {
@@ -64,7 +64,7 @@ div {
 
 body {
     background-color: black;
-    background-image: url('images/blue_background.png');
+    background-image: url('../images/blue_background.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
